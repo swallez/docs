@@ -485,7 +485,7 @@ contents:
                 branches:   [ {main: master}, 8.1, 8.0, 7.17, 7.16 ]
                 live:       [ main, 8.1, 8.0, 7.17, 7.16 ]
                 index:      docs/index.asciidoc
-                chunk:      1
+                chunk:      2
                 tags:       Clients/Java
                 subject:    Clients
                 sources:
